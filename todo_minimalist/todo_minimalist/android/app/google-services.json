@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326664176752",
+    "project_id": "todo-minimalist-33a97",
+    "storage_bucket": "todo-minimalist-33a97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326664176752:android:f1128f1fc8faad0a7e20b5",
+        "android_client_info": {
+          "package_name": "com.example.todo_minimalist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326664176752-n26tq1hq5av46oug4lo1k7moibrrpara.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80BAA5LgntOjA95Gjib7SNieDDOxudIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326664176752-n26tq1hq5av46oug4lo1k7moibrrpara.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
